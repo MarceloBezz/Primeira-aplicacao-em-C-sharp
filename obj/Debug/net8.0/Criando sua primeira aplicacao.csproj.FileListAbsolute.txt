@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\bin\Debug\net8.0\Criando sua primeira aplicacao.exe
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\bin\Debug\net8.0\Criando sua primeira aplicacao.deps.json
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\bin\Debug\net8.0\Criando sua primeira aplicacao.runtimeconfig.json
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\bin\Debug\net8.0\Criando sua primeira aplicacao.dll
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\bin\Debug\net8.0\Criando sua primeira aplicacao.pdb
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.AssemblyInfo.cs
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.dll
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\refint\Criando sua primeira aplicacao.dll
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.pdb
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\Criando sua primeira aplicacao.genruntimeconfig.cache
+C:\Users\marce\Desktop\Alura\C#\Criando sua primeira aplicacao\obj\Debug\net8.0\ref\Criando sua primeira aplicacao.dll
